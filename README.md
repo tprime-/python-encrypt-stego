@@ -7,6 +7,7 @@ Encode an encrypted message within an image
 
 optional arguments:
   -h, --help            show this help message and exit
+
   -v, --version         show program's version number and exit
   -o {encrypt,decrypt}  Operation: encrypt or decrypt
   -m SECRET_MESSAGE     Message to encrypt and encode
